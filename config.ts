@@ -75,7 +75,6 @@ const siteConfig = {
         },
       ],
     },
-
     GeneralLinkData: [
       {
         categoryName: 'Overview',
@@ -421,6 +420,7 @@ const siteConfig = {
         width: '1200',
       },
     },
+    SpecialPaths: ['prisma-cli', 'deployment', 'sql-views'],
   },
   feedback: {
     sentimentUrl: '/docs/api/sentiment',
